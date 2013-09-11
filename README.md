@@ -11,7 +11,7 @@ contains our Drupal 7 Puppet module.
 
 Learn how to install our Drupal 7 Puppet module here:
 
-[http://www.newmediacampaigns.com/blog/drupal7-puppet-module](http://www.newmediacampaigns.com/blog/drupal7-puppet-module)
+[http://www.newmediacampaigns.com/blog/drupal-puppet-module](http://www.newmediacampaigns.com/blog/drupal7-puppet-module)
 
 ## Requirements
 
